@@ -111,7 +111,7 @@ group by personId */ -->
 * Find the first and last name for the oldest employee
 <!-- select  FirstName, LastName, min(BirthDate) from Employee -->
 * Find everyone that reports to Nancy Edwards (Use the ReportsTo column)
-<!-- select FirstName from Employee where ReportsTo = 'Nancy Edwards'  ask mentor-->
+<!-- select FirstName from Employee where ReportsTo = 2 -->
 * Count how many people live in Lethbridge
 <!-- select count(*) from Employee where city = 'Lethbridge' -->
 
